@@ -16,6 +16,7 @@
 	  Present  	  Показ слайдов  
 	 (not checked)	 (не проверено)
 	 — Edited	 — Изменено
+	(missing)	(отсутствует)
 	(no spelling suggestions)	(нет вариантов исправления)
 	+ Add	+ Добавить
 	+ New Comment	+ Создать примечание
@@ -24,6 +25,12 @@
 	3-D	Объем
 	3-D Format	Объемный формат
 	3-D Rotation	Поворот объемной фигуры
+	A public talk the audience can check on the way home	Публичное выступление, выводы из которого слушатели могут проверить по дороге домой
+	A report meant to be read aloud in half an hour	Отчёт, рассчитанный на чтение вслух за полчаса
+	A short class that ends with the learner explaining the idea	Короткий урок, в конце которого учащийся сам объясняет идею
+	A ten-minute conversation about one promise, not a tour of features	Десятиминутный разговор об одном обещании, а не обзор функций
+	A weekly check-in: what changed, what's stuck, and who does the next thing	Еженедельный отчёт: что изменилось, где возникли трудности и кто делает следующий шаг
+	ALL pictures black and white	ВСЕ рисунки черно-белые
 	About DeckCraft	О программе DeckCraft
 	Accept	Принять
 	Accept Revision	Принять исправление
@@ -34,12 +41,13 @@
 	Action Buttons	Управляющие кнопки
 	Action Settings	Настройка действия
 	Action Settings…	Настройка действия…
-	Add a title with a picture or some text to get layout ideas.	Добавьте заголовок с изображением или текстом, чтобы получить идеи макета.
 	Add Animation	Добавить анимацию
+	Add Font	Добавить шрифт
 	Add Pictures…	Добавить изображения…
 	Add Point	Добавить узел
 	Add Section	Добавить раздел
 	Add Shape	Добавить фигуру
+	Add a title with a picture or some text to get layout ideas.	Добавьте заголовок с изображением или текстом, чтобы получить идеи макета.
 	Add\nAnimation	Добавить\nанимацию
 	Address:	Адрес:
 	Adjust Shape	Изменить фигуру
@@ -48,21 +56,25 @@
 	Album theme	Тема альбома
 	Align Cell Text	Выровнять текст ячейки
 	All caps	Все прописные
-	ALL pictures black and white	ВСЕ рисунки черно-белые
+	All slides	Все слайды
+	All slides on	Все слайды включены
 	Alt Text	Замещающий текст
 	Alt text	Замещающий текст
 	Alt\nText	Замещающий\nтекст
 	An open-source, clean-room project. Not affiliated with Microsoft.	Открытый проект с чистой реализацией. Не связан с Microsoft.
+	Animation Gallery	Коллекция анимаций
+	Animation Painter	Анимация по образцу
 	Animation Painter (double-click to keep it on)	Анимация по образцу (дважды щелкните, чтобы закрепить)
 	Animation Styles	Стили анимации
 	Animation\nPainter	Анимация\nпо образцу
 	Animation\nPane	Область\nанимации
 	Animations	Анимация
+	Animations on Slide	Анимации на слайде
 	Applies to this presentation's theme colours.	Применяется к цветам темы этой презентации.
 	Apply Animation	Применить анимацию
 	Apply Design Idea	Применить идею оформления
-	Apply only to this picture	Применить только к этому рисунку
 	Apply To All	Применить ко всем
+	Apply only to this picture	Применить только к этому рисунку
 	Apply to All	Применить ко всем
 	Apply\nTo All	Применить\nко всем
 	Artistic Effects	Художественные эффекты
@@ -70,8 +82,9 @@
 	As:	Как:
 	Audio from File…	Аудио из файла…
 	AutoCorrect	Автозамена
-	AutoCorrect as you type	Автозамена при вводе
+	AutoCorrect Options	Параметры автозамены
 	AutoCorrect Options…	Параметры автозамены…
+	AutoCorrect as you type	Автозамена при вводе
 	Autofit	Автоподбор ширины
 	Automatic bulleted and numbered lists	Автоматические маркированные и нумерованные списки
 	Available formats:	Доступные форматы:
@@ -80,8 +93,11 @@
 	Background\nStyles	Стили\nфона
 	Banded Columns	Чередующиеся столбцы
 	Banded Rows	Чередующиеся строки
+	Berry	Ягода
+	Black on	Чёрный экран включён
 	Blank Presentation	Пустая презентация
 	Body:	Основной текст:
+	Briefing	Брифинг
 	Bring\nForward	Переместить\nвперед
 	Browse for Themes…	Поиск тем…
 	Bullets	Маркеры
@@ -105,28 +121,40 @@
 	Change\nChart Type	Изменить\nтип диаграммы
 	Character Spacing	Межзнаковый интервал
 	Chart	Диаграмма
-	Chart cell	Ячейка диаграммы
 	Chart Data	Данные диаграммы
 	Chart Design	Конструктор диаграмм
 	Chart Elements	Элементы диаграммы
+	Chart cell	Ячейка диаграммы
 	Chart…	Диаграмма…
+	Check Accessibility	Проверить читаемость
 	Check for Updates…	Проверить обновления…
 	Check\nAccessibility	Проверить\nчитаемость
 	Choose a SmartArt Graphic	Выбор рисунка SmartArt
+	Choose where to save	Выбрать место сохранения
 	Choosing a presentation to reuse needs the desktop app	Для выбора презентации требуется версия для рабочего стола
 	Choosing a sound file needs the desktop app	Для выбора звукового файла требуется версия для рабочего стола
 	Clear All Formatting	Очистить все форматирование
 	Click a colour in the picture to make it transparent	Щелкните цвет на рисунке, чтобы сделать его прозрачным
 	Click a symbol to insert it at the insertion point.	Щелкните символ, чтобы вставить его в позицию курсора.
+	Click icon to add SmartArt graphic	Щелкните значок, чтобы добавить рисунок SmartArt
+	Click icon to add chart	Щелкните значок, чтобы добавить диаграмму
+	Click icon to add media	Щелкните значок, чтобы добавить медиаклип
+	Click icon to add picture	Щелкните значок, чтобы добавить рисунок
+	Click icon to add table	Щелкните значок, чтобы добавить таблицу
 	Click the slide to take the colour under the pointer	Щелкните слайд, чтобы взять цвет под указателем
 	Click to add notes	Заметки к слайду
+	Click to add subtitle	Подзаголовок слайда
 	Click to add text	Текст слайда
+	Click to add title	Заголовок слайда
 	Click to change this one; Shift-click to change all	Щелкните для изменения этого; Shift+щелчок для изменения всех
+	Close Master View	Закрыть режим образца
 	Close Path	Замкнуть контур
 	Close\nMaster View	Закрыть\nрежим образца
 	Collapse the Ribbon	Свернуть ленту
+	Color At	Цвет в точке
 	Columns…	Колонки…
 	Command Palette	Палитра команд
+	Commit Composition	Применить композицию
 	Community Links	Ссылки сообщества
 	Compare this presentation with a revised copy from Review › Compare.	Сравните эту презентацию с измененной копией через Вкладка «Рецензирование» › Сравнить.
 	Compare…	Сравнить…
@@ -134,36 +162,41 @@
 	Compress Pictures	Сжать рисунки
 	Compression options	Параметры сжатия
 	Connect Shapes	Соединить фигуры
+	Connection Sites	Узлы соединения
+	Convert to Diagram	Преобразовать в схему
 	Convert to Shapes	Преобразовать в фигуры
 	Convert to SmartArt	Преобразовать в SmartArt
 	Convert to Text	Преобразовать в текст
 	Copy path	Копировать путь
-	Correct accidental use of cAPS LOCK key	Устранять последствия случайного нажатия cAPS LOCK
+	Coral Reef	Коралловый риф
 	Correct TWo INitial CApitals	Устранять ДВе ПРописные буквы в начале слова
+	Correct accidental use of cAPS LOCK key	Устранять последствия случайного нажатия cAPS LOCK
 	Corrections	Настройка резкости
-	Create a PDF Document	Создать документ PDF
 	Create Handouts	Создать выдачи
 	Create New Theme Colors	Создание новых цветов темы
 	Create New Theme Fonts	Создание новых шрифтов темы
+	Create a PDF Document	Создать документ PDF
 	Crop to Shape	Обрезать по фигуре
-	Custom character:	Пользовательский символ:
 	Custom Show 1	Произвольный показ 1
 	Custom Shows	Произвольные показы
 	Custom Slide Show	Произвольный показ
+	Custom character:	Пользовательский символ:
 	Custom\nShow	Произвольный\nпоказ
 	Customize Colors…	Настроить цвета…
 	Customize Fonts…	Настроить шрифты…
 	Customize Quick Access Toolbar	Настройка панели быстрого доступа
-	Dark appearance	Темное оформление
 	Dark Mode	Темная тема
+	Dark appearance	Темное оформление
 	Dark\nMode	Темная\nтема
 	Dash	Штрих
 	Date & Time	Дата и время
 	Date &\nTime	Дата и\nвремя
 	Date and time	Дата и время
 	DeckCraft has no accounts: there is nothing to sign in to, and your presentations stay on your device.	В DeckCraft нет учетных записей: входить не нужно, а ваши презентации остаются на вашем устройстве.
+	DeckCraft is up to date	Установлена последняя версия DeckCraft
 	DeckCraft prints through a PDF: it downloads, ready to print from your browser or PDF viewer.	DeckCraft выполняет печать через PDF: файл скачивается и готов к печати из браузера или программы просмотра PDF.
 	DeckCraft prints through a PDF: it opens in your PDF viewer, where you choose the printer.	DeckCraft выполняет печать через PDF: файл открывается в вашей программе просмотра PDF, где вы выбираете принтер.
+	Decorative Text	Декоративный текст
 	Decrease List Level	Уменьшить уровень списка
 	Decrease {label}	Уменьшить {label}
 	Default tab stops (in):	Стандартные позиции табуляции (дюймы):
@@ -171,7 +204,6 @@
 	Delay:	Задержка:
 	Delete Columns	Удалить столбцы
 	Delete Comment	Удалить примечание
-	Delete cropped areas of pictures	Удалить обрезанные области рисунков
 	Delete Guide	Удалить направляющую
 	Delete Layout	Удалить макет
 	Delete Point	Удалить узел
@@ -181,9 +213,14 @@
 	Delete Slide	Удалить слайд
 	Delete Table	Удалить таблицу
 	Delete Text	Удалить текст
+	Delete cropped areas of pictures	Удалить обрезанные области рисунков
 	Demote	Понизить уровень
 	Design	Конструктор
+	Design Ideas	Идеи оформления
 	Design\nIdeas	Идеи\nоформления
+	Diagram	Схема
+	Diagram Styles	Стили схем
+	Discard Recovered Presentations	Отклонить восстановленные презентации
 	Display drawing guides on screen	Отображать направляющие на экране
 	Display grid on screen	Отображать сетку на экране
 	Distribute Columns	Выровнять ширину столбцов
@@ -198,9 +235,9 @@
 	Duplicate Selected Slides	Дублировать выделенные слайды
 	Duplicate Slide	Дублировать слайд
 	Duration:	Длительность:
-	e.g. 1-3, 5	например, 1-3, 5
 	Edit Alt Text…	Изменить замещающий текст…
 	Edit Data	Изменить данные
+	Edit Diagram Text	Изменить текст схемы
 	Edit Photo Album…	Изменить фотоальбом…
 	Edit Points	Начать изменение узлов
 	Edit SmartArt Text	Изменить текст SmartArt
@@ -208,46 +245,61 @@
 	Edit the data: first row = series names, first column = categories.	Измените данные: первая строка = имена рядов, первый столбец = категории.
 	Edit\nData	Изменить\nданные
 	Edit\nShape	Изменить\nфигуру
+	Editorial	Редакционный
 	Effect Options	Параметры эффектов
 	Effect\nOptions	Параметры\nэффектов
 	Email address:	Адрес эл. почты:
+	Ember	Угли
+	End	Завершить
 	End Review	Завершить рецензирование
 	End Show	Завершить показ
 	End trim (s):	Конец обрезки (с):
 	End\nReview	Завершить\nрецензирование
 	Equation	Формула
+	Evening Talk	Вечерний доклад
 	Exit Edit Points	Завершить изменение узлов
 	Export the presentation as:	Экспортировать презентацию как:
 	Fade in (s):	Длительность появления (с):
 	Fade out (s):	Длительность угасания (с):
+	Field Notes	Полевые заметки
 	Find what:	Найти:
 	Find whole words only	Только слово целиком
 	First Column	Первый столбец
+	First Slide	Первый слайд
 	First line	Первая строка
 	Fit slide to current window	Вписать слайд в текущее окно
 	Fit to Window	По размеру окна
 	Fit to\nWindow	По размеру\nокна
+	Fixed date (empty = update automatically):	Фиксированная дата (пусто = обновлять автоматически):
 	Follow Path	Вдоль траектории
 	Font Color	Цвет шрифта
 	Font name	Имя шрифта
+	Fonts in Presentation	Шрифты в презентации
 	Font…	Шрифт…
 	Footer	Нижний колонтитул
+	Footer text:	Текст нижнего колонтитула:
 	Footers	Нижние колонтитулы
 	For rectangles and rounded rectangles	Для прямоугольников и скругленных прямоугольников
+	Forest	Лес
 	Format Background	Формат фона
 	Format Background…	Формат фона…
+	Format Painter	Формат по образцу
 	Format Painter (double-click to keep it on)	Формат по образцу (дважды щелкните, чтобы закрепить)
 	Format Shape…	Формат фигуры…
 	Format\nBackground	Формат\nфона
 	Format\nPane	Область\nформатирования
-	Frame shape	Форма рамки
+	Formatting State	Состояние форматирования
 	Frame Slides	Обрамление слайдов
+	Frame shape	Форма рамки
 	Freeform	Полилиния
 	From slide:	Со слайда:
 	From the top-left corner of the slide	От верхнего левого угла слайда
 	From\nBeginning	С\nначала
 	From\nCurrent Slide	С текущего\nслайда
+	Geometric	Геометрический
+	Get Text	Получить текст
 	Go to	Перейти
+	Go to Slide	Перейти к слайду
 	Gradient bar	Шкала градиента
 	Gradient stops	Точки градиента
 	Gradient…	Градиентная…
@@ -260,21 +312,27 @@
 	Handout Placeholders	Образцы раздаточных материалов
 	Handout\nMaster	Образец\nвыдач
 	Hanging	Выступ
+	Harbor	Гавань
 	Header &\nFooter	Верхний и\nнижний колонтитулы
+	Header Row	Строка заголовка
 	Header and Footer	Колонтитулы
 	Header and Footer…	Колонтитулы…
-	Header Row	Строка заголовка
 	Heading and body fonts for this presentation.	Шрифты заголовков и основного текста для этой презентации.
 	Heading:	Заголовок:
 	Heavy	Жирная
+	Height (in):	Высота:
 	Height ({abbr}):	Высота ({abbr}):
+	Hidden slides	Скрытые слайды
 	Hide Background Graphics	Скрыть фоновые рисунки
-	Hide background graphics	Скрыть фоновые рисунки
 	Hide During Show	Скрывать при показе
 	Hide Slide	Скрыть слайд
+	Hide background graphics	Скрыть фоновые рисунки
 	Hide\nSlide	Скрыть\nслайд
 	Highlight click	Выделение при щелчке
+	Horizontal (in):	По горизонтали:
 	How would you describe this object and its context to someone who is blind or has low vision?	Как бы вы описали этот объект и его контекст человеку с нарушениями зрения?
+	Humanist	Гуманистический
+	Icon Gallery	Коллекция значков
 	Icons	Значки
 	Include hidden slides	Включая скрытые слайды
 	Increase List Level	Увеличить уровень списка
@@ -293,7 +351,7 @@
 	Insert Layout	Вставить макет
 	Insert Left	Вставить слева
 	Insert Picture	Вставить рисунок
-	Insert picture from file…	Вставить рисунок из файла…
+	Insert Picture in Diagram	Вставить рисунок в схему
 	Insert Picture in SmartArt	Вставить рисунок в SmartArt
 	Insert Picture in SmartArt…	Вставить рисунок в SmartArt…
 	Insert Placeholder	Вставить заполнитель
@@ -301,6 +359,7 @@
 	Insert Synonym	Вставить синоним
 	Insert Table	Вставка таблицы
 	Insert Table…	Вставка таблицы…
+	Insert picture from file…	Вставить рисунок из файла…
 	Insert\nAbove	Вставить\nсверху
 	Insert\nBelow	Вставить\nснизу
 	Insert\nLayout	Вставить\nмакет
@@ -308,6 +367,10 @@
 	Insert\nPlaceholder	Вставить\nзаполнитель
 	Insert\nRight	Вставить\nсправа
 	Insert…	Вставить…
+	Inspect Presentation	Проверить презентацию
+	Inspect Shape	Свойства фигуры
+	Inspect Slide	Свойства слайда
+	Inspect Slide Actions	Действия на слайде
 	Interface language:	Язык интерфейса:
 	Interface size	Масштаб интерфейса
 	Join our community on Discord	Присоединяйтесь к нашему сообществу в Discord
@@ -317,28 +380,34 @@
 	Keeps the layout, fonts and pictures	Сохраняет макет, шрифты и рисунки
 	Language for All Text	Язык для всего текста
 	Last Column	Последний столбец
+	Last Slide	Последний слайд
 	Layout Placeholders	Заполнители макета
 	Learn\nMore	Узнать\nбольше
 	Leave the slide background out: only what is on the slide is drawn	Не включать фон слайда: отрисовывается только содержимое слайда
 	Less Brightness	Уменьшить яркость
 	Less Contrast	Уменьшить контрастность
+	Lesson	Урок
 	Light/Dark appearance	Светлое/темное оформление
 	Line Spacing	Междустрочный интервал
 	Line Spacing Options…	Параметры междустрочного интервала…
+	List Commands	Список команд
+	List Slides to Reuse	Повторное использование слайдов
 	Lock aspect ratio	Сохранять пропорции
 	Loop continuously until 'Esc'	Непрерывный цикл до нажатия «Esc»
 	Loop forever	Повторять непрерывно
 	Loop until Stopped	Непрерывное воспроизведение
+	MIT OR Apache-2.0 · © 2026 ArtCraft Team and the DeckCraft contributors	MIT OR Apache-2.0 · © 2026 Команда ArtCraft и контрибьюторы DeckCraft
 	Margins (pt)	Поля (пт)
 	Mark as decorative	Пометить как декоративный
 	Match case	С учетом регистра
 	Maximize content (else ensure fit)	Увеличить содержимое (иначе вписать)
+	Meadow	Луг
 	Measurement units:	Единицы измерения:
+	Media Info	Сведения о мультимедиа
 	Media position	Позиция медиа
 	Merge Shapes	Объединить фигуры
 	Merge\nCells	Объединить\nячейки
 	Merge\nShapes	Объединить\nфигуры
-	MIT OR Apache-2.0 · © 2026 ArtCraft Team and the DeckCraft contributors	MIT OR Apache-2.0 · © 2026 Команда ArtCraft и контрибьюторы DeckCraft
 	Month names and AM/PM are listed for English. Other languages list the numeric date and 24-hour time.	Названия месяцев и AM/PM отображаются для английского языка. Для других языков используется числовая дата и 24-часовой формат времени.
 	More Brightness	Увеличить яркость
 	More Colors… #	Другие цвета… #
@@ -349,6 +418,7 @@
 	More themes	Другие темы
 	Move Guide	Переместить направляющую
 	Move Handle	Переместить маркер
+	Move Insertion Point	Переместить точку вставки
 	Move Point	Переместить узел
 	Move Section	Переместить раздел
 	Move Section Down	Переместить раздел вниз
@@ -356,23 +426,30 @@
 	Move Slide	Переместить слайд
 	New Comment	Создать примечание
 	New Photo Album…	Создать фотоальбом…
-	New show name:	Имя нового показа:
+	New Presentation	Создать презентацию
 	New Slide	Создать слайд
 	New Slide (⇧⌘N)	Создать слайд (⇧⌘N)
 	New Text Box	Создать надпись
+	New show name:	Имя нового показа:
 	New\nComment	Создать\nпримечание
 	New\nSlide	Создать\nслайд
 	New\nWindow	Новое\nокно
+	Next Comment	Следующее примечание
+	Next Slide	Следующий слайд
+	Next Window	Следующее окно
+	No Glow	Без подсветки
 	No accessibility issues found. People with disabilities should not have difficulty reading this document.	Проблем со специальными возможностями не обнаружено. У людей с ограниченными возможностями не должно возникнуть трудностей с чтением этого документа.
 	No comments.	Нет примечаний.
 	No contributor data was built into this copy.	В эту сборку не были включены данные о контрибьюторах.
 	No differences left.	Различий больше нет.
-	No Glow	Без подсветки
 	No icons match.	Подходящих значков не найдено.
 	No model credits were built into this copy.	В эту сборку не были включены благодарности моделям.
 	No notes.	Нет заметок.
 	No pictures yet	Рисунков пока нет
 	No presentation is open.	Презентация не открыта.
+	No slides.	Нет слайдов.
+	No themes or templates match	Нет тем или шаблонов, соответствующих
+	Nocturne	Ноктюрн
 	Not a copy of this presentation: slides are matched by position.	Не является копией этой презентации: слайды сопоставляются по позиции.
 	Not saved yet	Еще не сохранено
 	Notes	Заметки
@@ -386,13 +463,16 @@
 	Number of rows:	Число строк:
 	Number:	Номер:
 	Numbering	Нумерация
+	Ocean	Океан
 	On Click of… (none)	По щелчку… (нет)
 	On Mouse Click	По щелчку мыши
+	Open Data	Открыть данные
+	Open Dialog	Открыть диалоговое окно
+	Open Path	Разомкнуть контур
+	Open Recovered Presentations	Открыть восстановленные презентации
 	Open a presentation from a folder (Ctrl+O)	Открыть презентацию из папки (Ctrl+O)
 	Open another window on this presentation	Открыть еще одно окно с этой презентацией
-	Open Dialog	Открыть диалоговое окно
 	Open file location	Открыть расположение файла
-	Open Path	Разомкнуть контур
 	Open source under MIT OR Apache-2.0. Not affiliated with Microsoft.	Открытый исходный код под лицензиями MIT ИЛИ Apache-2.0. Не связан с Microsoft.
 	Opens on any device with a PDF viewer	Открывается на любом устройстве с программой просмотра PDF
 	Order Objects	Порядок объектов
@@ -403,10 +483,10 @@
 	Paper size	Размер бумаги
 	Paragraph…	Абзац…
 	Paste (⌘V)	Вставить (⌘V)
-	Paste and Match Formatting	Вставить и объединить форматирование
 	Paste Formatting	Вставить форматирование
-	Paste or type an outline. Unindented lines become slide titles; tab-indented lines become bullets.	Вставьте или введите структуру. Строки без отступа станут заголовками слайдов, а строки с отступом табуляции — пунктами списка.
 	Paste Special…	Специальная вставка…
+	Paste and Match Formatting	Вставить и объединить форматирование
+	Paste or type an outline. Unindented lines become slide titles; tab-indented lines become bullets.	Вставьте или введите структуру. Строки без отступа станут заголовками слайдов, а строки с отступом табуляции — пунктами списка.
 	Pause animated GIF	Приостановить анимацию GIF
 	Percent:	Проценты:
 	Photo Album	Фотоальбом
@@ -418,23 +498,29 @@
 	Picture	Рисунок
 	Picture Border	Граница рисунка
 	Picture Format	Формат рисунка
+	Picture Style Gallery	Коллекция стилей рисунков
+	Picture Styles	Стили рисунков
 	Picture from File…	Рисунок из файла…
 	Picture layout	Разметка рисунка
 	Picture source	Источник рисунка
-	Picture Styles	Стили рисунков
 	Pictures	Рисунки
 	Pictures in album	Рисунки в альбоме
+	Pitch	Презентация идеи
 	Play Across Slides	Воспроизводить на всех слайдах
-	Play animated GIF	Воспроизвести анимацию GIF
-	Play from\nCurrent Slide	Показ с\nтекущего слайда
-	Play from\nStart	Показ\nс начала
 	Play Full Screen	Во весь экран
 	Play Narrations	Воспроизводить речевое сопровождение
+	Play animated GIF	Воспроизвести анимацию GIF
+	Play from Current Slide	Показ с текущего слайда
+	Play from Start	Показ с начала
+	Play from\nCurrent Slide	Показ с\nтекущего слайда
+	Play from\nStart	Показ\nс начала
 	Play this slide's animations on the canvas	Воспроизвести анимацию этого слайда на холсте
+	Play/Pause	Воспроизведение/Пауза
+	Play/Pause GIF	Воспроизведение/Пауза GIF
 	Playback	Воспроизведение
 	Point Type	Тип узла
-	Position and Size	Положение и размер
 	Position Objects	Размещение объектов
+	Position and Size	Положение и размер
 	Post	Опубликовать
 	Poster Frame	Плакат
 	Presentations	Презентации
@@ -444,6 +530,8 @@
 	Presenter\nView	Режим\nдокладчика
 	Preset gradients	Стандартные градиенты
 	Preview Animations	Просмотр анимации
+	Previous Comment	Предыдущее примечание
+	Previous Slide	Предыдущий слайд
 	Print Hidden Slides	Печать скрытых слайдов
 	Print layout	Разметка печати
 	Print layout:	Разметка печати:
@@ -453,27 +541,31 @@
 	Program:	Программа:
 	Promote	Повысить уровень
 	Put a picture in the selected node's picture placeholder	Поместить рисунок в заполнитель рисунка выбранного узла
+	Quarterly	Квартальный отчёт
 	Quick Access Toolbar	Панель быстрого доступа
 	Quick Styles	Экспресс-стили
 	Quick\nStyles	Экспресс-\nстили
 	Reading View	Режим чтения
 	Recolor	Перекрасить
+	Recolor Gallery	Коллекция вариантов перекрашивания
 	Record	Запись
 	Recording narration needs audio capture (coming soon)	Для записи речевого сопровождения требуется захват звука (скоро)
 	Recover Unsaved Presentations	Восстановить несохраненные презентации
+	Recovered Presentations	Восстановленные презентации
 	Reflection	Отражение
 	Regroup	Перегруппировать
 	Rehearse\nTimings	Настройка\nвремени
 	Reject	Отклонить
+	Reject Revision	Отклонить исправление
 	Remove All Animations	Удалить все анимации
 	Remove All Sections	Удалить все разделы
 	Remove Animation	Удалить анимацию
-	Remove bullets and numbering	Удалить маркеры и нумерацию
-	Remove from Quick Access Toolbar	Удалить с панели быстрого доступа
-	Remove from Recent	Удалить из списка последних
 	Remove Section	Удалить раздел
 	Remove Section & Slides	Удалить раздел и слайды
 	Remove Shape	Удалить фигуру
+	Remove bullets and numbering	Удалить маркеры и нумерацию
+	Remove from Quick Access Toolbar	Удалить с панели быстрого доступа
+	Remove from Recent	Удалить из списка последних
 	Remove stop	Удалить точку
 	Remove the picture style	Удалить стиль рисунка
 	Remove\nBackground	Удалить\nфон
@@ -481,6 +573,7 @@
 	Rename Section	Переименовать раздел
 	Rename Section…	Переименовать раздел…
 	Rename Slide	Переименовать слайд
+	Render Slide	Отрисовать слайд
 	Reopen	Открыть снова
 	Reorder Animation	Изменить порядок анимации
 	Reorder Objects	Изменить порядок объектов
@@ -506,8 +599,10 @@
 	Reset to Defaults	Сбросить по умолчанию
 	Resolve	Пометить как выполненное
 	Resolve Thread	Пометить беседу как выполненную
+	Return to Zoom	Возврат к масштабу
 	Reuse Slides	Вставить слайды повторно
 	Reuse Slides…	Вставить слайды повторно…
+	Revisions	Исправления
 	Rewind after Playing	Перемотать после воспроизведения
 	Ribbon Tab	Вкладка ленты
 	Right-click any ribbon button to add it.	Щелкните правой кнопкой мыши любую кнопку на ленте, чтобы добавить ее.
@@ -517,11 +612,19 @@
 	Rotate Right	Повернуть вправо
 	Rotate Right 90°	Повернуть вправо на 90°
 	Rotate with shape	Поворачивать вместе с фигурой
+	Rotation (°):	Поворот (°):
+	Sample deck: Northern Lights	Пример презентации: Северное сияние
+	Save AutoRecover Information	Автосохранение данных для восстановления
 	Save as type	Тип файла
+	Save to Data	Сохранить данные
+	Save to the page	Сохранить на странице
+	Saved a copy	Копия сохранена
+	Scale height (%):	Масштаб по высоте (%):
+	Scale width (%):	Масштаб по ширине (%):
 	Scheme name	Имя схемы
+	ScreenTip:	Подсказка:
 	Screenshot	Снимок экрана
 	Screenshot (not available yet)	Снимок экрана (пока недоступно)
-	ScreenTip:	Подсказка:
 	Scroll ribbon left	Прокрутить ленту влево
 	Scroll ribbon right	Прокрутить ленту вправо
 	Search commands (⇧⌘P)	Поиск команд (⇧⌘P)
@@ -532,27 +635,37 @@
 	Search icons	Поиск значков
 	Seconds per slide:	Секунд на слайд:
 	Section	Раздел
+	Section Zoom	Масштаб раздела
+	Seek	Перемотка
 	Segment Type	Тип сегмента
+	Select All Text	Выделить весь текст
+	Select Cells	Выделить ячейки
+	Select None	Снять выделение
+	Select Paragraph	Выделить абзац
+	Select Slide Range	Выбрать диапазон слайдов
+	Select Slides	Выбрать слайды
+	Select Text	Выделить текст
+	Select Word	Выделить слово
+	Select a SmartArt graphic to edit its text.	Выберите рисунок SmartArt для изменения его текста.
 	Select a chart first.	Сначала выберите диаграмму.
 	Select a shape to format it.	Выберите фигуру для форматирования.
-	Select a SmartArt graphic to edit its text.	Выберите рисунок SmartArt для изменения его текста.
 	Select a word on the slide, or type one above.	Выберите слово на слайде или введите его выше.
 	Select an object on the slide and add an animation from the Animations tab.	Выберите объект на слайде и добавьте анимацию на вкладке «Анимация».
-	Select None	Снять выделение
 	Selection Pane…	Область выделения…
 	Selection\nPane	Область\nвыделения
 	Send\nBackward	Переместить\nназад
-	Set as Default Shape	Назначить фигурой по умолчанию
 	Set Text	Задать текст
 	Set Transparent Color	Установить прозрачный цвет
 	Set Up Slide Show	Настройка слайд-шоу
 	Set Up Slide Show…	Настройка слайд-шоу…
 	Set Up\nSlide Show	Настройка\nслайд-шоу
 	Set Zoom	Задать масштаб
+	Set as Default Shape	Назначить фигурой по умолчанию
 	Several slides on each page of a PDF	Несколько слайдов на каждой странице PDF
 	Shading	Заливка
 	Shape Fill	Заливка фигуры
 	Shape Format	Формат фигуры
+	Shape Gallery	Коллекция фигур
 	Shape Outline	Контур фигуры
 	Shape\nStyles	Стили\nфигур
 	Show Media Controls	Показывать элементы управления проигрывателем
@@ -566,12 +679,14 @@
 	Size (% of text):	Размер (% от текста):
 	Size and Position	Размер и положение
 	Size and Position…	Размер и положение…
+	Slate	Грифель
 	Slide Master	Образец слайдов
 	Slide Number	Номер слайда
-	Slide number	Номер слайда
 	Slide Show	Показ слайдов
 	Slide Size	Размер слайда
 	Slide Sorter	Сортировщик слайдов
+	Slide Zoom	Масштаб слайда
+	Slide number	Номер слайда
 	Slide {n} of {total}	Слайд {n} из {total}
 	Slide\nMaster	Образец\nслайдов
 	Slide\nNumber	Номер\nслайда
@@ -585,22 +700,28 @@
 	Slides:	Слайды:
 	Small caps	Малые прописные
 	SmartArt Design	Конструктор SmartArt
-	SmartArt items	Элементы SmartArt
 	SmartArt Styles	Стили SmartArt
+	SmartArt items	Элементы SmartArt
 	SmartArt text	Текст SmartArt
 	Smooth Corners	Сглаженные углы
 	Snap	Привязка
 	Snap objects to grid	Привязать к сетке
 	Snap objects to other objects	Привязать к другим объектам
 	Soft Edges	Сглаживание
+	Sound	Звук
 	Spacing (in):	Интервал (дюймы):
 	Spacing (pt):	Интервал (пт):
+	Spelling Dictionary	Словарь проверки орфографии
 	Spelling is checked for languages marked (dictionary).	Правописание проверяется для языков, отмеченных (словарь).
 	Split Cells	Разбить ячейки
 	Split\nCells	Разбить\nячейки
 	Standard Colors	Стандартные цвета
 	Start Automatically	Запускать автоматически
 	Start time (s):	Время начала (с):
+	Starter Templates	Начальные шаблоны
+	Stop Editing Text	Завершить правку текста
+	Summary Zoom	Сводный масштаб
+	Sunset	Закат
 	System language	Системный язык
 	Tab stop position (in):	Позиция табуляции (дюймы):
 	Tab stops:	Позиции табуляции:
@@ -613,50 +734,64 @@
 	Task Pane	Область задач
 	Text Box	Надпись
 	Text Box Margins	Поля надписи
-	Text box:	Поле надписи:
 	Text Direction	Направление текста
 	Text Effects	Текстовые эффекты
 	Text Fill	Заливка текста
 	Text Highlight Color	Цвет выделения текста
 	Text Outline	Контур текста
-	Text ruler	Текстовая линейка
+	Text Pane	Область текста
 	Text Shadow	Тень текста
 	Text Transform	Трансформация текста
 	Text Transparency	Прозрачность текста
+	Text box:	Поле надписи:
+	Text ruler	Текстовая линейка
 	Text\nBox	Текстовое\nполе
 	Text\nPane	Область\nтекста
+	The presentation has no sections. Add one with Home › Section.	В презентации нет разделов. Добавьте раздел на вкладке Главная › Раздел.
 	The presentation keeps its own file	Презентация сохраняется в отдельном файле
 	The spelling check is complete. No issues found.	Проверка правописания завершена. Ошибок не найдено.
 	Theme Colors	Цвета темы
+	Theme Gallery	Коллекция тем
 	Themes	Темы
 	Themes (whole presentation)	Темы (вся презентация)
+	There are no unsaved changes.	Несохраненных изменений нет.
+	Thesaurus	Тезаурус
+	This presentation has never been saved.	Эта презентация еще ни разу не сохранялась.
 	This presentation has no custom shows (Slide Show ▸ Custom Slide Show).	В этой презентации нет произвольных показов (Слайд-шоу ▸ Произвольный показ).
+	This presentation has unsaved changes. Revert goes back to the saved file.	В этой презентации есть несохраненные изменения. Возврат вернет файл к сохраненному состоянию.
 	Three a page leaves lines for notes	Три на страницу со строками для заметок
 	Tile picture as texture	Расположить рисунок как текстуру
 	Timing	Время показа
 	To slide:	На слайд:
 	Total Row	Строка итогов
 	Transition	Переход
+	Transition Gallery	Коллекция переходов
 	Transitions	Переходы
 	Translation needs a language model (not bundled)	Для перевода требуется языковая модель (не входит в комплект)
 	Transparent background	Прозрачный фон
 	Trigger	Триггер
 	Trim	Обрезка
 	Trim Media	Монтаж медиа
+	Type Text	Ввод текста
 	Type an equation in linear form (e.g. a^2+b^2=c^2, x=(-b±√(b^2-4ac))/2a).	Введите формулу в линейном виде (например, a^2+b^2=c^2, x=(-b±√(b^2-4ac))/2a).
 	Type and organise the diagram's text	Ввод и организация текста схемы
-	Type Text	Ввод текста
 	Type your text here	Введите текст здесь
+	Up to date	Установлена последняя версия
 	Update automatically	Обновлять автоматически
 	Use Timings	Использовать время показа
 	Use timings, if present	Использовать записанные интервалы (при наличии)
 	User Information	Сведения о пользователе
+	Variant Gallery	Коллекция вариантов
 	Variants	Варианты
+	Vertical (in):	По вертикали:
 	Vertical alignment	Выравнивание по вертикали
 	Video from File…	Видео из файла…
 	Volume	Громкость
 	Wavy	Волнистая
+	What an outing set out to see, and what it actually found	Что планировалось увидеть во время выхода и что было обнаружено на самом деле
+	White on	Белый экран включён
 	Widescreen (16:9)	Широкоэкранный (16:9)
+	Width (in):	Ширина:
 	Width (pixels):	Ширина (пиксели):
 	Width ({abbr}):	Ширина ({abbr}):
 	Width: 	Ширина: 
@@ -667,103 +802,9 @@
 	Wrap text in shape	Переносить текст по словам в фигуре
 	Your name (comments):	Ваше имя (примечания):
 	Zoom level	Масштаб
+	Zoom on	Масштабирование включено
 	Zoom to	Масштабировать до
+	Zoom…	Масштаб…
+	e.g. 1-3, 5	например, 1-3, 5
 	{label} value	Значение {label}
 	{name} options	Параметры {name}
-	Add Font	Добавить шрифт
-	Animation Gallery	Коллекция анимаций
-	Animation Painter	Анимация по образцу
-	Animations on Slide	Анимации на слайде
-	AutoCorrect Options	Параметры автозамены
-	Check Accessibility	Проверить читаемость
-	Choose where to save	Выбрать место сохранения
-	Click icon to add chart	Щелкните значок, чтобы добавить диаграмму
-	Click icon to add media	Щелкните значок, чтобы добавить медиаклип
-	Click icon to add picture	Щелкните значок, чтобы добавить рисунок
-	Click icon to add SmartArt graphic	Щелкните значок, чтобы добавить рисунок SmartArt
-	Click icon to add table	Щелкните значок, чтобы добавить таблицу
-	Click to add subtitle	Подзаголовок слайда
-	Click to add title	Заголовок слайда
-	Close Master View	Закрыть режим образца
-	Color At	Цвет в точке
-	Commit Composition	Применить композицию
-	Connection Sites	Узлы соединения
-	Convert to Diagram	Преобразовать в схему
-	DeckCraft is up to date	Установлена последняя версия DeckCraft
-	Decorative Text	Декоративный текст
-	Design Ideas	Идеи оформления
-	Diagram	Схема
-	Diagram Styles	Стили схем
-	Discard Recovered Presentations	Отклонить восстановленные презентации
-	Edit Diagram Text	Изменить текст схемы
-	First Slide	Первый слайд
-	Fixed date (empty = update automatically):	Фиксированная дата (пусто = обновлять автоматически):
-	Fonts in Presentation	Шрифты в презентации
-	Footer text:	Текст нижнего колонтитула:
-	Format Painter	Формат по образцу
-	Formatting State	Состояние форматирования
-	Get Text	Получить текст
-	Go to Slide	Перейти к слайду
-	Height (in):	Высота:
-	Hidden slides	Скрытые слайды
-	Horizontal (in):	По горизонтали:
-	Icon Gallery	Коллекция значков
-	Insert Picture in Diagram	Вставить рисунок в схему
-	Inspect Presentation	Проверить презентацию
-	Inspect Shape	Свойства фигуры
-	Inspect Slide	Свойства слайда
-	Inspect Slide Actions	Действия на слайде
-	Last Slide	Последний слайд
-	List Commands	Список команд
-	List Slides to Reuse	Повторное использование слайдов
-	Media Info	Сведения о мультимедиа
-	Move Insertion Point	Переместить точку вставки
-	New Presentation	Создать презентацию
-	Next Comment	Следующее примечание
-	Next Slide	Следующий слайд
-	Next Window	Следующее окно
-	Open Data	Открыть данные
-	Open Recovered Presentations	Открыть восстановленные презентации
-	Picture Style Gallery	Коллекция стилей рисунков
-	Play from Current Slide	Показ с текущего слайда
-	Play from Start	Показ с начала
-	Play/Pause	Воспроизведение/Пауза
-	Play/Pause GIF	Воспроизведение/Пауза GIF
-	Previous Comment	Предыдущее примечание
-	Previous Slide	Предыдущий слайд
-	Recolor Gallery	Коллекция вариантов перекрашивания
-	Recovered Presentations	Восстановленные презентации
-	Reject Revision	Отклонить исправление
-	Render Slide	Отрисовать слайд
-	Revisions	Исправления
-	Rotation (°):	Поворот (°):
-	Save AutoRecover Information	Автосохранение данных для восстановления
-	Save to Data	Сохранить данные
-	Save to the page	Сохранить на странице
-	Saved a copy	Копия сохранена
-	Scale height (%):	Масштаб по высоте (%):
-	Scale width (%):	Масштаб по ширине (%):
-	Seek	Перемотка
-	Select All Text	Выделить весь текст
-	Select Cells	Выделить ячейки
-	Select Paragraph	Выделить абзац
-	Select Slide Range	Выбрать диапазон слайдов
-	Select Slides	Выбрать слайды
-	Select Text	Выделить текст
-	Select Word	Выделить слово
-	Shape Gallery	Коллекция фигур
-	Sound	Звук
-	Spelling Dictionary	Словарь проверки орфографии
-	Starter Templates	Начальные шаблоны
-	Stop Editing Text	Завершить правку текста
-	Text Pane	Область текста
-	Theme Gallery	Коллекция тем
-	Thesaurus	Тезаурус
-	There are no unsaved changes.	Несохраненных изменений нет.
-	This presentation has never been saved.	Эта презентация еще ни разу не сохранялась.
-	This presentation has unsaved changes. Revert goes back to the saved file.	В этой презентации есть несохраненные изменения. Возврат вернет файл к сохраненному состоянию.
-	Transition Gallery	Коллекция переходов
-	Up to date	Установлена последняя версия
-	Variant Gallery	Коллекция вариантов
-	Vertical (in):	По вертикали:
-	Width (in):	Ширина:
