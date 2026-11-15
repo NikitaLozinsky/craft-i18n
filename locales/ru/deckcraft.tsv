@@ -670,3 +670,100 @@
 	Zoom to	Масштабировать до
 	{label} value	Значение {label}
 	{name} options	Параметры {name}
+	Add Font	Добавить шрифт
+	Animation Gallery	Коллекция анимаций
+	Animation Painter	Анимация по образцу
+	Animations on Slide	Анимации на слайде
+	AutoCorrect Options	Параметры автозамены
+	Check Accessibility	Проверить читаемость
+	Choose where to save	Выбрать место сохранения
+	Click icon to add chart	Щелкните значок, чтобы добавить диаграмму
+	Click icon to add media	Щелкните значок, чтобы добавить медиаклип
+	Click icon to add picture	Щелкните значок, чтобы добавить рисунок
+	Click icon to add SmartArt graphic	Щелкните значок, чтобы добавить рисунок SmartArt
+	Click icon to add table	Щелкните значок, чтобы добавить таблицу
+	Click to add subtitle	Подзаголовок слайда
+	Click to add title	Заголовок слайда
+	Close Master View	Закрыть режим образца
+	Color At	Цвет в точке
+	Commit Composition	Применить композицию
+	Connection Sites	Узлы соединения
+	Convert to Diagram	Преобразовать в схему
+	DeckCraft is up to date	Установлена последняя версия DeckCraft
+	Decorative Text	Декоративный текст
+	Design Ideas	Идеи оформления
+	Diagram	Схема
+	Diagram Styles	Стили схем
+	Discard Recovered Presentations	Отклонить восстановленные презентации
+	Edit Diagram Text	Изменить текст схемы
+	First Slide	Первый слайд
+	Fixed date (empty = update automatically):	Фиксированная дата (пусто = обновлять автоматически):
+	Fonts in Presentation	Шрифты в презентации
+	Footer text:	Текст нижнего колонтитула:
+	Format Painter	Формат по образцу
+	Formatting State	Состояние форматирования
+	Get Text	Получить текст
+	Go to Slide	Перейти к слайду
+	Height (in):	Высота:
+	Hidden slides	Скрытые слайды
+	Horizontal (in):	По горизонтали:
+	Icon Gallery	Коллекция значков
+	Insert Picture in Diagram	Вставить рисунок в схему
+	Inspect Presentation	Проверить презентацию
+	Inspect Shape	Свойства фигуры
+	Inspect Slide	Свойства слайда
+	Inspect Slide Actions	Действия на слайде
+	Last Slide	Последний слайд
+	List Commands	Список команд
+	List Slides to Reuse	Повторное использование слайдов
+	Media Info	Сведения о мультимедиа
+	Move Insertion Point	Переместить точку вставки
+	New Presentation	Создать презентацию
+	Next Comment	Следующее примечание
+	Next Slide	Следующий слайд
+	Next Window	Следующее окно
+	Open Data	Открыть данные
+	Open Recovered Presentations	Открыть восстановленные презентации
+	Picture Style Gallery	Коллекция стилей рисунков
+	Play from Current Slide	Показ с текущего слайда
+	Play from Start	Показ с начала
+	Play/Pause	Воспроизведение/Пауза
+	Play/Pause GIF	Воспроизведение/Пауза GIF
+	Previous Comment	Предыдущее примечание
+	Previous Slide	Предыдущий слайд
+	Recolor Gallery	Коллекция вариантов перекрашивания
+	Recovered Presentations	Восстановленные презентации
+	Reject Revision	Отклонить исправление
+	Render Slide	Отрисовать слайд
+	Revisions	Исправления
+	Rotation (°):	Поворот (°):
+	Save AutoRecover Information	Автосохранение данных для восстановления
+	Save to Data	Сохранить данные
+	Save to the page	Сохранить на странице
+	Saved a copy	Копия сохранена
+	Scale height (%):	Масштаб по высоте (%):
+	Scale width (%):	Масштаб по ширине (%):
+	Seek	Перемотка
+	Select All Text	Выделить весь текст
+	Select Cells	Выделить ячейки
+	Select Paragraph	Выделить абзац
+	Select Slide Range	Выбрать диапазон слайдов
+	Select Slides	Выбрать слайды
+	Select Text	Выделить текст
+	Select Word	Выделить слово
+	Shape Gallery	Коллекция фигур
+	Sound	Звук
+	Spelling Dictionary	Словарь проверки орфографии
+	Starter Templates	Начальные шаблоны
+	Stop Editing Text	Завершить правку текста
+	Text Pane	Область текста
+	Theme Gallery	Коллекция тем
+	Thesaurus	Тезаурус
+	There are no unsaved changes.	Несохраненных изменений нет.
+	This presentation has never been saved.	Эта презентация еще ни разу не сохранялась.
+	This presentation has unsaved changes. Revert goes back to the saved file.	В этой презентации есть несохраненные изменения. Возврат вернет файл к сохраненному состоянию.
+	Transition Gallery	Коллекция переходов
+	Up to date	Установлена последняя версия
+	Variant Gallery	Коллекция вариантов
+	Vertical (in):	По вертикали:
+	Width (in):	Ширина:
